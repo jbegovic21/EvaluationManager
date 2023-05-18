@@ -1,0 +1,6 @@
+C:\Users\Jakov Begovic\Desktop\4. semestar\PI\Evaluation Manager kod\Evaluation-Manager-master\Evaluation-Manager-master\DBLayer\bin\Debug\DBLayer.dll
+C:\Users\Jakov Begovic\Desktop\4. semestar\PI\Evaluation Manager kod\Evaluation-Manager-master\Evaluation-Manager-master\DBLayer\bin\Debug\DBLayer.pdb
+C:\Users\Jakov Begovic\Desktop\4. semestar\PI\Evaluation Manager kod\Evaluation-Manager-master\Evaluation-Manager-master\DBLayer\obj\Debug\DBLayer.csproj.AssemblyReference.cache
+C:\Users\Jakov Begovic\Desktop\4. semestar\PI\Evaluation Manager kod\Evaluation-Manager-master\Evaluation-Manager-master\DBLayer\obj\Debug\DBLayer.csproj.CoreCompileInputs.cache
+C:\Users\Jakov Begovic\Desktop\4. semestar\PI\Evaluation Manager kod\Evaluation-Manager-master\Evaluation-Manager-master\DBLayer\obj\Debug\DBLayer.dll
+C:\Users\Jakov Begovic\Desktop\4. semestar\PI\Evaluation Manager kod\Evaluation-Manager-master\Evaluation-Manager-master\DBLayer\obj\Debug\DBLayer.pdb

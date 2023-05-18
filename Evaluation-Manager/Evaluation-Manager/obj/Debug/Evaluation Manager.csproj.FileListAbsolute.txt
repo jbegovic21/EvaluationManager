@@ -1,0 +1,17 @@
+C:\Users\Jakov Begovic\Desktop\4. semestar\PI\Evaluation Manager kod\Evaluation-Manager-master\Evaluation-Manager-master\bin\Debug\Evaluation Manager.exe.config
+C:\Users\Jakov Begovic\Desktop\4. semestar\PI\Evaluation Manager kod\Evaluation-Manager-master\Evaluation-Manager-master\bin\Debug\Evaluation Manager.exe
+C:\Users\Jakov Begovic\Desktop\4. semestar\PI\Evaluation Manager kod\Evaluation-Manager-master\Evaluation-Manager-master\bin\Debug\Evaluation Manager.pdb
+C:\Users\Jakov Begovic\Desktop\4. semestar\PI\Evaluation Manager kod\Evaluation-Manager-master\Evaluation-Manager-master\bin\Debug\DBLayer.dll
+C:\Users\Jakov Begovic\Desktop\4. semestar\PI\Evaluation Manager kod\Evaluation-Manager-master\Evaluation-Manager-master\bin\Debug\DBLayer.pdb
+C:\Users\Jakov Begovic\Desktop\4. semestar\PI\Evaluation Manager kod\Evaluation-Manager-master\Evaluation-Manager-master\obj\Debug\Evaluation Manager.csproj.AssemblyReference.cache
+C:\Users\Jakov Begovic\Desktop\4. semestar\PI\Evaluation Manager kod\Evaluation-Manager-master\Evaluation-Manager-master\obj\Debug\Evaluation Manager.csproj.SuggestedBindingRedirects.cache
+C:\Users\Jakov Begovic\Desktop\4. semestar\PI\Evaluation Manager kod\Evaluation-Manager-master\Evaluation-Manager-master\obj\Debug\Evaluation_Manager.FrmEvaluation.resources
+C:\Users\Jakov Begovic\Desktop\4. semestar\PI\Evaluation Manager kod\Evaluation-Manager-master\Evaluation-Manager-master\obj\Debug\Evaluation_Manager.FrmFinalReport.resources
+C:\Users\Jakov Begovic\Desktop\4. semestar\PI\Evaluation Manager kod\Evaluation-Manager-master\Evaluation-Manager-master\obj\Debug\Evaluation_Manager.FrmLogin.resources
+C:\Users\Jakov Begovic\Desktop\4. semestar\PI\Evaluation Manager kod\Evaluation-Manager-master\Evaluation-Manager-master\obj\Debug\Evaluation_Manager.FrmStudents.resources
+C:\Users\Jakov Begovic\Desktop\4. semestar\PI\Evaluation Manager kod\Evaluation-Manager-master\Evaluation-Manager-master\obj\Debug\Evaluation_Manager.Properties.Resources.resources
+C:\Users\Jakov Begovic\Desktop\4. semestar\PI\Evaluation Manager kod\Evaluation-Manager-master\Evaluation-Manager-master\obj\Debug\Evaluation Manager.csproj.GenerateResource.cache
+C:\Users\Jakov Begovic\Desktop\4. semestar\PI\Evaluation Manager kod\Evaluation-Manager-master\Evaluation-Manager-master\obj\Debug\Evaluation Manager.csproj.CoreCompileInputs.cache
+C:\Users\Jakov Begovic\Desktop\4. semestar\PI\Evaluation Manager kod\Evaluation-Manager-master\Evaluation-Manager-master\obj\Debug\Evaluation Manager.csproj.CopyComplete
+C:\Users\Jakov Begovic\Desktop\4. semestar\PI\Evaluation Manager kod\Evaluation-Manager-master\Evaluation-Manager-master\obj\Debug\Evaluation Manager.exe
+C:\Users\Jakov Begovic\Desktop\4. semestar\PI\Evaluation Manager kod\Evaluation-Manager-master\Evaluation-Manager-master\obj\Debug\Evaluation Manager.pdb
